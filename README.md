@@ -56,6 +56,11 @@ Download Nekoray from here: https://github.com/MatsuriDayo/nekoray/releases/late
 
 Open the [configs.txt](./config.txt) file and copy the contents. Now just paste the configs to the app.
 
+There is a copy option on the top right of the text file. Use one of the below photos according to your screen size.
+
+<img src="./docs/phone-copy-file-contents.png" alt="Phone" width="500"/>
+<img src="./docs/desktop-copy-file-contents.png" alt="Phone" width="500"/>
+
 However you should visit this file every time you need new configs.
 
 ### Simpler method for *long* term
