@@ -1,3 +1,6 @@
+# Ignore vscode folder and files
+.vscode
+
 # Ignore compiled files
 *.exe
 *.h.gch
