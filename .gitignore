@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.exe
+*.h.gch
+*.h.pch
+*.out
+*.o
+
+# Ignore any test main.cpp files.
+main.cpp
+main
