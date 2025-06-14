@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206eFdMeGJzU2ZzWg==@128.199.172.47:57930#[%F0%9F%8F%81]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=&sni=pqh35v4.gym35fit.shop&type=grpc&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?security=&type=grpc&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?security=&sni=pqh27v6.nature27.shop&type=grpc&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
+vless://ed87c882-17f3-491a-810c-c0000e4b279e@151.101.194.219:80?security=&type=ws&path=/olem/ws?ed%3D1024&host=foffmelo.com&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFdlS051aHZhc1lFYkpHdnpHbmVwNVk2dldGd3BTdmpCTVJDUU42WXV5RHl5Z1VoU0Q4ZjRwWEV6Q3A1SjhzODRFZzh2b1ZxYTU1N1JTWE5zV2Z3VExKTXVnUnd6Mzc=@94.156.79.244:40934#[%F0%9F%87%B3%F0%9F%87%B1]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206eFdMeGJzU2ZzWg==@128.199.172.47:57930#[%F0%9F%8F%81]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?security=&sni=pqh27v6.nature27.shop&type=grpc&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
