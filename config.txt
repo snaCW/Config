@@ -1,6 +1,6 @@
-vless://e2a2ac00-66ff-46b8-8fe4-063e1fb49192@92.242.220.59:2096?security=&type=tcp&encryption=none#[%F0%9F%87%AE%F0%9F%87%B7]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
 vless://392af9cc-9d20-41fb-9509-ee53090fe2ae@157.180.23.58:2052?security=reality&sni=wordpress.org&fp=chrome&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&sid=4156caa9&type=grpc&serviceName=@seyyedmt-@seyyedmt@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt&encryption=none#[%F0%9F%87%AB%F0%9F%87%AE]t.me/ConfigsHub
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&encryption=none#[%F0%9F%87%B7%F0%9F%87%BA]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206clpleFJqd1ZkRQ==@206.189.155.93:45713#[%F0%9F%8F%81]t.me/ConfigsHub
+vless://1147bc83-5ef3-418a-b31b-ccbb1c0c7099@193.24.120.84:2040?security=&type=ws&path=/&encryption=none#[%F0%9F%87%AE%F0%9F%87%B7]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#[%F0%9F%87%AC%F0%9F%87%A7]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206eFdMeGJzU2ZzWg==@128.199.172.47:57930#[%F0%9F%8F%81]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206clpleFJqd1ZkRQ==@206.189.155.93:45713#[%F0%9F%8F%81]t.me/ConfigsHub
