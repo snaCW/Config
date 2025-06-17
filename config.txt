@@ -1,12 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.118.226:443#[%F0%9F%87%AC%F0%9F%87%A7]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.208.211:443#[%F0%9F%87%AC%F0%9F%87%A7]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@4.159.35.230:443#[%F0%9F%87%AC%F0%9F%87%A7]t.me/ConfigsHub
-vless://dfefb7bc-9e42-47e9-81ef-93886730f64d@178.239.150.221:8821?security=&type=tcp&encryption=none#[%F0%9F%87%AE%F0%9F%87%B7]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?security=&type=grpc&encryption=none#[%F0%9F%87%BA%F0%9F%87%B8]t.me/ConfigsHub
-vless://fs1Kk45IsVqLxocAGRTDET@46.8.43.79:443?security=reality&sni=asus.com&fp=chrome&pbk=1piwketJ3OC8e98UULoY-j1eP1Lm1GAZbvB_YOZIEmQ&sid=0c31d5345dd4559f&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#[%F0%9F%8F%81]t.me/ConfigsHub
-vless://71f0b464-a73e-4552-8758-c5c204bdfb45@79.127.69.118:2344?security=&type=tcp&headerType=http&host=telewebion.com&encryption=none#[%F0%9F%87%AE%F0%9F%87%B7]t.me/ConfigsHub
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?security=&sni=tannaz.juveitaly.dpdns.org&fp=random&type=ws&path=/?ed%3D2560&host=tannaz.juveitaly.dpdns.org&encryption=none#[%F0%9F%87%A8%F0%9F%87%A6]t.me/ConfigsHub
-vless://fdf85f13-94b3-47ca-ab79-f90463f155ed@185.239.1.44:4471?security=&type=tcp&headerType=http&host=irna.ir&encryption=none#[%F0%9F%87%AE%F0%9F%87%B7]t.me/ConfigsHub
-vless://5d19d8d8-d0c8-4ea0-b86e-082030397ebc@85.133.221.46:6023?security=reality&sni=traffic-tile.maps.snapp.ir&fp=firefox&pbk=OCW4VToUh_2gtej7iO30chCKwUWDmmmpW01kHE4BDwU&sid=7fcf499c88f80777&type=tcp&encryption=none#[%F0%9F%87%AE%F0%9F%87%B7]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.127.54.76:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[%F0%9F%87%A9%F0%9F%87%AA]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.70.117.124:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[%F0%9F%87%A9%F0%9F%87%AA]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsa3dxbGE3QjdJMXpQMUJadDlIOUZC@78.157.48.148:443#[%F0%9F%87%AE%F0%9F%87%B7]t.me/ConfigsHub
