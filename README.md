@@ -1,100 +1,84 @@
 # Config
 
-This repository contains some available configs.
+This repository contains v2ray configs that are expected to work to bypass the internet block in Iran.
 
-## Test Conditions
+> There is no guarantee that all the configs work for everyone.
 
-Latency test URL: https://telegram.org/
+## How the configs are selected
 
-Only the available configs on the above test are present here.
+I copy and test a lot of configs (more than 2000) from various Telegram channels. The latency test URL is https://telegram.org/, and the ISP is MCI.
 
-## Install the requirements
+I don't remove the configs info tags, and strongly suggest to join the providers' channels.
+
+> YOU **SHOUD NOT** RELY ON ME TO ALWAYS UPDATE THIS REPO. THIS REPO MAINLY SERVES AS A MORE COMFORTABLE TOOL TO HAVE WORKING CONFIGS ON MULTIPLE DEVICES OF "MINE"!
+
+> I **DO NOT** OWN THE CONFIGS. I **AM NOT** RESPOSIBLE FOR ANY DAMAGE OR LOSS MADE BY THESE CONFIGS. I **AM NOT** A VPN PROVIDER.
+
+## How to use
 
 - [Android](#android)
-- [Windows](#windows)
-- [Linux](#linux)
+- [Desktop](#desktop)
 
 ### => ***Android***
 
 Download v2rayNG from here: https://github.com/2dust/v2rayNG/releases/latest
 
-There are five types of releases:
+You'll see something like this:
 
-- arm64-v8a
-- armeabi-v7a
-- universal
-- x86
-- x86-64
+<img src="./docs/v2rayNG-latest-download.png" alt="v2rayNG latest releases" width="500"/>
 
-These releases refer to the CPU architecture of your phone. You can check your CPU architecture using apps like *Droid Hardware Info*.
+You can download the release that matches your phone CPU architecture, or just simply download the `universal` version.
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.inkwired.droidinfo&hl=en)
-- [Soft98](https://soft98.ir/android/app-essential/196-droid-hardware-info.html)
+> v2rayNG has been removed from Google Play Store. Don't try to find it there.
 
-> Lazy? just download the **universal** release.
+**Follow the steps below:**
 
-### => ***Windows***
+1. Open the app and click on the menu.
+
+    <img src="./docs/guide/v2rayNG/open-menu.png" alt="Open v2rayNG menu" width="500"/>
+
+2. Open the subscription menu.
+
+    <img src="./docs/guide/v2rayNG/open-subscription-menu.png" alt="Open v2rayNG subscription menu" width="500"/>
+
+3. Add a new subscription.
+
+    <img src="./docs/guide/v2rayNG/add-new-subscription.png" alt="Add a new v2rayNG subscription" width="500"/>
+
+4. Provide a name in "remarks" (the first rectangle) and copy this link to the "Optional URL (the second rectangle): `https://raw.githubusercontent.com/snaCW/Config/main/config.txt`
+
+    <img src="./docs/guide/v2rayNG/subscription-info-fill.png" alt="Fill the info subscription" width="500"/>
+
+5. Once you filled the info, save the subscription. If you go to the app main window, you can see the subscription. Open this subscription menu.
+
+    <img src="./docs/guide/v2rayNG/custom-subscription-menu.png" alt="Open the custom" width="500"/>
+
+6. From now on, you only need to click on "Update current group subscription". Every time you click on it, the subscription would be updated automatically.
+
+    <img src="./docs/guide/v2rayNG/update-current-group.png" alt="Update the subscription" width="500"/>
+
+### => ***Desktop***
 
 Download Nekoray from here: https://github.com/MatsuriDayo/nekoray/releases/latest
 
-There are four types of releases:
+You'll see something like this:
 
-- debian-x64
-- linux-x64.AppImage
-- linux64
-- **windows64**
+<img src="./docs/nekoray-latest-download.png" alt="v2rayNG latest releases" width="500"/>
 
-It's obvious which one you should download. After extracting the zip file, you don't need to install anything. Just run the app.
+If you're on Windows, find the release with **windows64** name in it. Extract the compressed file and just run `nekobox.exe`, no need to install anything.
 
-### => ***Linux***
+If you're on linux, you already know which one you should download.
 
-Download Nekoray from here: https://github.com/MatsuriDayo/nekoray/releases/latest
+**Follow the steps below:**
 
-## Use the configs
+1. Open the groups settings.
 
-### Simpler method for *short* term
+    <img src="./docs/guide/nekoray/open-groups.png" alt="Open the groups" width="500"/>
 
-Open the [configs.txt](./config.txt) file and copy the contents. Now just paste the configs to the app.
+2. Click on "new group" and change the "Type" to "Subscription". This is the link you should put in the URL field: `https://raw.githubusercontent.com/snaCW/Config/main/config.txt`
 
-There is a copy option on the top right of the text file. Use one of the below photos according to your screen size.
+    <img src="./docs/guide/nekoray/add-subscription.png" alt="Open the groups" width="500"/>
 
-<img src="./docs/phone-copy-file-contents.png" alt="Phone" width="500"/>
-<img src="./docs/desktop-copy-file-contents.png" alt="Phone" width="500"/>
+3. On the app main window, right-click and select "Current Group" and then click on "Update subscription". From now on, you should only click on this option. The configs would be automatically updated.
 
-However you should visit this file every time you need new configs.
-
-### Simpler method for *long* term
-
-> If you're on Android, you can't use this method.
-
-### Windows
-
-Download Git from here: https://git-scm.com/downloads/win
-
-> > > > > >To-do
-
-### Linux
-
-Download and install git using the default pakage manager.
-
-``` bash
-git clone https://github.com/snaCW/Config.git && cd Config
-```
-
-Install `xclip` if not installed. Then just run the below command.
-
-``` bash
-xclip -selection clipboard < config.txt
-```
-
-Now all of the configs are copied into your clipboard. You can even use this `alias` to make it even simpler:
-
-``` bash
-alias cpc='xclip -selection clipboard < '
-```
-
-And then use this command:
-
-``` bash
-cpc config.txt
-```
+    <img src="./docs/guide/nekoray/update-subcription.png" alt="Open the groups" width="500"/>
