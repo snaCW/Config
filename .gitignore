@@ -11,3 +11,8 @@
 # Ignore any test main.cpp files.
 main.cpp
 main
+
+# Ignore intermediate files.
+configs.txt
+others.txt
+proxies.txt
